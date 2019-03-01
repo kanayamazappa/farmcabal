@@ -9,3 +9,16 @@ c:\users\ursop\onedrive\documentos\visual studio 2012\Projects\FarmCabal\FarmCab
 c:\users\ursop\onedrive\documentos\visual studio 2012\Projects\FarmCabal\FarmCabal\obj\Debug\FarmCabal.pdb
 c:\users\ursop\onedrive\documentos\visual studio 2012\Projects\FarmCabal\FarmCabal\bin\Debug\Interceptor.dll
 c:\users\ursop\onedrive\documentos\visual studio 2012\Projects\FarmCabal\FarmCabal\bin\Debug\Interceptor.pdb
+D:\git\farmcabal\FarmCabal\bin\Debug\FarmCabal.exe.config
+D:\git\farmcabal\FarmCabal\bin\Debug\FarmCabal.exe
+D:\git\farmcabal\FarmCabal\bin\Debug\FarmCabal.pdb
+D:\git\farmcabal\FarmCabal\bin\Debug\Interceptor.dll
+D:\git\farmcabal\FarmCabal\bin\Debug\Interceptor.pdb
+D:\git\farmcabal\FarmCabal\obj\Debug\FarmCabal.csprojAssemblyReference.cache
+D:\git\farmcabal\FarmCabal\obj\Debug\FarmCabal.Form1.resources
+D:\git\farmcabal\FarmCabal\obj\Debug\FarmCabal.Properties.Resources.resources
+D:\git\farmcabal\FarmCabal\obj\Debug\FarmCabal.csproj.GenerateResource.cache
+D:\git\farmcabal\FarmCabal\obj\Debug\FarmCabal.csproj.CoreCompileInputs.cache
+D:\git\farmcabal\FarmCabal\obj\Debug\FarmCabal.csproj.CopyComplete
+D:\git\farmcabal\FarmCabal\obj\Debug\FarmCabal.exe
+D:\git\farmcabal\FarmCabal\obj\Debug\FarmCabal.pdb
